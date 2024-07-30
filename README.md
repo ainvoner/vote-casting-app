@@ -1,4 +1,4 @@
-# A voting site
+# A vote casting website
 
 Are you an Elmer Fudd fan? Or do you prefer Bugs Bunny?
 
@@ -7,4 +7,4 @@ Are you an Elmer Fudd fan? Or do you prefer Bugs Bunny?
 `npm run dev`
 
 # Running the app as part of the Voting App (local)
-1. Run `docker build -t voting-cast-app .`
+1. Run `docker build -t vote-casting-app .`
