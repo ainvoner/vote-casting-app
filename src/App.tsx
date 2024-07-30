@@ -58,6 +58,7 @@ export const App = () => {
                         </div>
                     </button>
                 </div>
+                <div className={"relative h-12"}>
                 {vote && <p key={count}
                     className={classNames(
                         "text-xl font-large text-gray-700 transition ease-in-out delay-150",
@@ -65,6 +66,7 @@ export const App = () => {
                             "fadeOut": !visible,
                             "fadeIn": visible
                         })}>You voted for {vote}</p>}
+                </div>
             </div>
         </>
     )
