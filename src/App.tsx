@@ -32,7 +32,7 @@ export const App = () => {
                             <div>
                                 <img
                                     alt=""
-                                    src="fudd.png"
+                                    src="/vote/fudd.png"
                                     className="inline-block h-20 w-20 rounded-full"
                                 />
                             </div>
@@ -47,7 +47,7 @@ export const App = () => {
                             <div>
                                 <img
                                     alt=""
-                                    src="bugs.jpg"
+                                    src="/vote/bugs.jpg"
                                     className="inline-block h-20 w-20 rounded-full"
                                 />
                             </div>
